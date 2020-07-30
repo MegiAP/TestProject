@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void getA(){
         String a = "";
+        String b = "";
     }
 }
